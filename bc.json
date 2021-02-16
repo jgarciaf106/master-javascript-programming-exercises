@@ -1,12 +1,4 @@
 {
-<<<<<<< HEAD
-    "slug": "master-javascript-programming-exercises",
-    "title": "Master Javascript with 150 exercises",
-    "repository": "https://github.com/4GeeksAcademy/master-javascript-programming-exercises",
-    "language": "node",
-    "skills": ["algorithms"],
-    "description": "100 exercises to master the javascript concepts for junior developers"
-=======
     "port": 3000,
     "address": "https://ef2c84a5-1908-4eca-9602-c5b20030b2ab.ws-us03.gitpod.io",
     "editor": "gitpod",
@@ -595,5 +587,4 @@
             "graded": true
         }
     ]
->>>>>>> 8abf1ed3a00728efbaf62f2ca222ea437ac21a14
 }
